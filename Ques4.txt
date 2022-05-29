@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Output 4</title>
+</head>
+<body>
+
+    <h1 style="height: 20px; color:green;">
+        CSS Selectors
+    </h1>
+    
+    <h1 style="color:skyblue;
+    text-decoration: underline;"> I'm a class selector</h1>
+    
+    <h3 style="background-color:aquamarine; color: yellowgreen;"> I'm the ID selector.Here I am a boss</h3>
+    <div style="background-color:rgb(204, 242, 245);">
+        <p style="color:red">I'm red.</p>
+        <p style="color:red">I'm also red.</p>
+        <p style="color:Darkblue">What is going on?why am I blue?!</p>
+    </div>
+    <div style="background-color:rgb(247, 215, 220); text-align: center;">
+        <p style="color:Darkblue">I'm odd number.</p>
+        <p style="color:red">I'm even number.</p>
+        <p style="color:Darkblue">I'm also odd number.</p>
+        <p style="color:red">Hm..I'm also even number.</p>
+    </div>
+    <div style="color: purple;">
+    <p>@ Here is my GitHub page</p>
+    <p>Yes, it looks likes promotion.. but also let me put my instagram page...:)</p>
+</div>
+</body>
+</html>

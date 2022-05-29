@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Output 2</title>
+    <style>
+        table, th, td {
+          border: 1px solid black;
+        }
+        </style>
+</head>
+<body>
+<img alt="" src="html2">
+    <div>
+        <h1 style="color: blueviolet; text-decoration: underline;">Labrador Retriever</h1>
+        <img src="ImageQ2.png" alt="" width="800" height="400">
+        <div>
+            <ol>
+        <li><a href="#">Main Information</a></li>
+		<li><a href="#">Description</a></li>
+		<li><a href="#">Origins</a></li>
+		<li><a href="#">Temperament</a></li>
+		<li><a href="#">Health</a></li>
+		<li><a href="#">Appearance around the world</a></li>
+            </ol>
+        </div>
+
+        <h2>Main Information</h2>
+
+<table style="width:30%">
+  <tr>
+    <th>Breed name:</th>
+    <th>Labrador Retriever</th> 
+  </tr>
+  <tr>
+    <td>Country of origin</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Breeding time:</td>
+    <td>19th Century</td>
+  </tr>
+  <tr>
+    <td>type:</td>
+    <td> Campanion Dog</td>
+  </tr>
+  <tr>
+    <td>weight:</td>
+    <td>26-40kg</td>
+  </tr>
+  <tr>
+    <td>Height(height at the withers):</td>
+    <td>55-57cm</td>
+  </tr>
+  <tr>
+    <td>Life span:</td>
+    <td>10-13 years</td>
+  </tr>
+  <tr>
+    <td>Labrador puppy price:</td>
+    <td>200-1250 $</td>
+  </tr>
+</table>
+
+    </div>
+
+</body>
+</html>
